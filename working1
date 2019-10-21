@@ -1,0 +1,11 @@
+library(dplyr)
+library(tidyr)
+library(NLP)
+library(tm)
+library("SnowballC")
+library(RColorBrewer)
+library(wordcloud)
+library(RCurl)
+library(SentimentAnalysis)
+
+
